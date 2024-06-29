@@ -26,10 +26,14 @@ Installation
 
 Usage
 
+change link of webdriver to local webdriver (Should be installed already in your machine)
+
 Emploi_anonyme.py/Emploi_.py
 
 
 python Emploi_anonyme.py or python Emploi_.py 
+
+
 ![capture](https://github.com/majidBOUZAR/Emploitic-scrap-job/assets/36988298/80a55518-062b-40a2-a492-73814fb41bb6)
 ![capture](https://github.com/majidBOUZAR/Emploitic-scrap-job/assets/36988298/55efb3d5-2070-4032-b5a6-9ce4fea85b8f)
 
